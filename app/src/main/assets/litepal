@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <dbname value="kuweather" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="digod.kuweather.db.Province" />
+        <mapping class="digod.kuweather.db.City" />
+        <mapping class="digod.kuweather.db.County" />
+    </list>
+
+</litepal>
